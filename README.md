@@ -1,0 +1,2 @@
+# Scientific-Calculator
+Python GUI scientific calculator with standard calculator features like division (÷), multiplication (x), addition (+), subtraction (-), square root (√), modulo (%), Delete, Clear and Calculate but also pi, sin, cos, tan, 2pi, sinh, cosh, tanh, log, exp, mod, e, log2, deg, asinh, acosh, log10, log1p, expm1, lgamma. You can switch standard calculator into scientific calculator by selecting 'File' option in menu bar.
